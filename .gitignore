@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.csproj.user
+
+# Compilação
+bin/
+obj/
+
+# Build
+Debug/
+Release/
