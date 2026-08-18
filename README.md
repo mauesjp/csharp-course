@@ -32,6 +32,8 @@ Até o momento:
 
 \* ✅ Classes, objetos, atributos e métodos
 
+\* ✅ Membros estáticos
+
 
 
 \## 📂 Organização
@@ -105,6 +107,12 @@ Entre os conceitos trabalhados até agora estão:
 \* Sobrescrita de `ToString()`
 
 \* Organização de responsabilidades entre classes
+
+\* Membros estáticos
+
+\* Métodos estáticos
+
+\* Atributos estáticos
 
 
 
