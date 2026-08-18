@@ -1,4 +1,4 @@
-\# 💻 C# Course por nélio alves
+\# 💻 C# Course por Nélio Alves
 
 
 
@@ -28,6 +28,10 @@ Até o momento:
 
 \* ✅ Estrutura de repetição `for`
 
+\* ✅ Introdução à Programação Orientada a Objetos
+
+\* ✅ Classes, objetos, atributos e métodos
+
 
 
 \## 📂 Organização
@@ -47,6 +51,10 @@ csharp-course/
 ├── 04-estrutura-while/
 
 └── 05-estrutura-for/
+
+└── 06-poo-classes-atributos-metodos/
+
+└──...
 
 ```
 
@@ -83,6 +91,20 @@ Entre os conceitos trabalhados até agora estão:
 \* Formatação de números
 
 \* Resolução de problemas de lógica
+
+\* Classes e objetos
+
+\* Atributos
+
+\* Métodos
+
+\* Parâmetros de métodos
+
+\* Retorno de métodos
+
+\* Sobrescrita de `ToString()`
+
+\* Organização de responsabilidades entre classes
 
 
 
