@@ -34,6 +34,12 @@ Até o momento:
 
 \* ✅ Membros estáticos
 
+\* ✅ Construtores
+
+\* ✅ Encapsulamento
+
+\* ✅ Properties e Auto Properties
+
 
 
 \## 📂 Organização
@@ -52,9 +58,9 @@ csharp-course/
 
 ├── 04-estrutura-while/
 
-└── 05-estrutura-for/
+├── 05-estrutura-for/
 
-└── 06-poo-classes-atributos-metodos/
+├── 06-poo-classes-atributos-metodos/
 
 └──...
 
@@ -72,47 +78,35 @@ Cada pasta representa uma etapa dos estudos e contém exercícios desenvolvidos 
 
 Entre os conceitos trabalhados até agora estão:
 
-
-
 \* Entrada e saída de dados
-
 \* Variáveis e tipos
-
 \* Operadores aritméticos
-
 \* Operadores relacionais e lógicos
-
 \* Estruturas condicionais
-
 \* Laços de repetição
-
 \* Contadores e acumuladores
-
 \* Conversão de tipos
-
 \* Formatação de números
-
 \* Resolução de problemas de lógica
-
 \* Classes e objetos
-
 \* Atributos
-
 \* Métodos
-
 \* Parâmetros de métodos
-
 \* Retorno de métodos
-
 \* Sobrescrita de `ToString()`
-
 \* Organização de responsabilidades entre classes
-
 \* Membros estáticos
-
 \* Métodos estáticos
-
 \* Atributos estáticos
+\* Construtores
+\* Sobrecarga de construtores
+\* Encapsulamento
+\* Properties
+\* Auto Properties
+\* Modificadores de acesso
+\* Uso de `private set`
+\* Proteção do estado dos objetos
+\* Implementação de regras de negócio em classes
 
 
 
