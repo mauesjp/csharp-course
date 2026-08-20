@@ -40,6 +40,10 @@ Até o momento:
 
 \* ✅ Properties e Auto Properties
 
+\* ✅ Vetores
+
+\* ✅ Listas
+
 
 
 \## 📂 Organização
@@ -76,38 +80,39 @@ Cada pasta representa uma etapa dos estudos e contém exercícios desenvolvidos 
 
 
 
-Entre os conceitos trabalhados até agora estão:
+Entre os principais conceitos trabalhados até agora estão:
 
-\* Entrada e saída de dados
-\* Variáveis e tipos
-\* Operadores aritméticos
-\* Operadores relacionais e lógicos
-\* Estruturas condicionais
-\* Laços de repetição
+\* Entrada, saída e conversão de dados
+
+\* Variáveis, tipos e operadores
+
+\* Estruturas condicionais e de repetição
+
 \* Contadores e acumuladores
-\* Conversão de tipos
-\* Formatação de números
-\* Resolução de problemas de lógica
-\* Classes e objetos
-\* Atributos
-\* Métodos
-\* Parâmetros de métodos
-\* Retorno de métodos
-\* Sobrescrita de `ToString()`
-\* Organização de responsabilidades entre classes
-\* Membros estáticos
-\* Métodos estáticos
-\* Atributos estáticos
-\* Construtores
-\* Sobrecarga de construtores
-\* Encapsulamento
-\* Properties
-\* Auto Properties
-\* Modificadores de acesso
-\* Uso de `private set`
-\* Proteção do estado dos objetos
-\* Implementação de regras de negócio em classes
 
+\* Formatação de números
+
+\* Resolução de problemas de lógica
+
+\* Fundamentos de POO: classes, objetos, atributos e métodos
+
+\* Construtores e sobrecarga
+
+\* Membros e métodos estáticos
+
+\* Encapsulamento e Properties
+
+\* Modificadores de acesso e private set
+
+\* Sobrescrita de ToString()
+
+\* Vetores e manipulação de objetos
+
+\* Listas genéricas (List<T>)
+
+\* Busca de elementos com Find() e expressões lambda
+
+\* Percurso e manipulação de coleções
 
 
 \## 🛠️ Tecnologias
