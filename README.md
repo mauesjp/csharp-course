@@ -44,6 +44,8 @@ Até o momento:
 
 \* ✅ Listas
 
+\* ✅ Matrizes
+
 
 
 \## 📂 Organização
@@ -113,6 +115,12 @@ Entre os principais conceitos trabalhados até agora estão:
 \* Busca de elementos com Find() e expressões lambda
 
 \* Percurso e manipulação de coleções
+
+\* Matrizes bidimensionais
+
+\* Verificação de elementos vizinhos e limites da matriz
+
+\* Percurso de linhas e colunas
 
 
 \## 🛠️ Tecnologias
