@@ -46,6 +46,10 @@ Até o momento:
 
 \* ✅ Matrizes
 
+\* ✅ Composição
+
+\* ✅ Enumerações
+
 
 
 \## 📂 Organização
@@ -121,6 +125,10 @@ Entre os principais conceitos trabalhados até agora estão:
 \* Verificação de elementos vizinhos e limites da matriz
 
 \* Percurso de linhas e colunas
+
+\* Enumerações (Enums)
+
+\* Composição entre classes
 
 
 \## 🛠️ Tecnologias
