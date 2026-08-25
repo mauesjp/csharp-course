@@ -40,15 +40,11 @@ Até o momento:
 
 \* ✅ Properties e Auto Properties
 
-\* ✅ Vetores
+\* ✅ Vetores, Listas e Matrizes
 
-\* ✅ Listas
+\* ✅ Composição e Enumerações
 
-\* ✅ Matrizes
-
-\* ✅ Composição
-
-\* ✅ Enumerações
+\* ✅ Herança e Polimorfismo
 
 
 
@@ -129,6 +125,14 @@ Entre os principais conceitos trabalhados até agora estão:
 \* Enumerações (Enums)
 
 \* Composição entre classes
+
+\* Herança entre classes
+
+\* Métodos `virtual` e `override`
+
+\* Sobrescrita de métodos
+
+\* Polimorfismo
 
 
 \## 🛠️ Tecnologias
