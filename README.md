@@ -46,6 +46,9 @@ Até o momento:
 
 * ✅ Herança e Polimorfismo
 
+* ✅ Classes Abstratas e Métodos Abstratos
+
+* ✅ Tratamento de Exceções
 
 
 ## 📂 Organização
@@ -133,6 +136,14 @@ Entre os principais conceitos trabalhados até agora estão:
 * Sobrescrita de métodos
 
 * Polimorfismo
+
+* Tratamento de exceções com try/catch
+
+* Lançamento de exceções com throw
+
+* Criação de exceções personalizadas
+
+* Regras de negócio utilizando exceções
 
 
 ## 🛠️ Tecnologias
