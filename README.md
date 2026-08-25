@@ -1,8 +1,8 @@
-\# 💻 C# Course por Nélio Alves
+# 💻 C# Course por Nélio Alves
 
 
 
-Repositório destinado a registrar minha evolução nos estudos de \*\*C# e .NET\*\*.
+Repositório destinado a registrar minha evolução nos estudos de **C# e .NET**.
 
 
 
@@ -10,7 +10,7 @@ Aqui estão organizados os exercícios e códigos desenvolvidos ao longo do curs
 
 
 
-\## 📚 Conteúdos estudados
+## 📚 Conteúdos estudados
 
 
 
@@ -18,37 +18,37 @@ Até o momento:
 
 
 
-\* ✅ Fundamentos
+* ✅ Fundamentos
 
-\* ✅ Estrutura sequencial
+* ✅ Estrutura sequencial
 
-\* ✅ Estrutura condicional
+* ✅ Estrutura condicional
 
-\* ✅ Estrutura de repetição `while`
+* ✅ Estrutura de repetição `while`
 
-\* ✅ Estrutura de repetição `for`
+* ✅ Estrutura de repetição `for`
 
-\* ✅ Introdução à Programação Orientada a Objetos
+* ✅ Introdução à Programação Orientada a Objetos
 
-\* ✅ Classes, objetos, atributos e métodos
+* ✅ Classes, objetos, atributos e métodos
 
-\* ✅ Membros estáticos
+* ✅ Membros estáticos
 
-\* ✅ Construtores
+* ✅ Construtores
 
-\* ✅ Encapsulamento
+* ✅ Encapsulamento
 
-\* ✅ Properties e Auto Properties
+* ✅ Properties e Auto Properties
 
-\* ✅ Vetores, Listas e Matrizes
+* ✅ Vetores, Listas e Matrizes
 
-\* ✅ Composição e Enumerações
+* ✅ Composição e Enumerações
 
-\* ✅ Herança e Polimorfismo
+* ✅ Herança e Polimorfismo
 
 
 
-\## 📂 Organização
+## 📂 Organização
 
 
 
@@ -78,80 +78,80 @@ Cada pasta representa uma etapa dos estudos e contém exercícios desenvolvidos 
 
 
 
-\## 🧠 Conceitos praticados
+## 🧠 Conceitos praticados
 
 
 
 Entre os principais conceitos trabalhados até agora estão:
 
-\* Entrada, saída e conversão de dados
+* Entrada, saída e conversão de dados
 
-\* Variáveis, tipos e operadores
+* Variáveis, tipos e operadores
 
-\* Estruturas condicionais e de repetição
+* Estruturas condicionais e de repetição
 
-\* Contadores e acumuladores
+* Contadores e acumuladores
 
-\* Formatação de números
+* Formatação de números
 
-\* Resolução de problemas de lógica
+* Resolução de problemas de lógica
 
-\* Fundamentos de POO: classes, objetos, atributos e métodos
+* Fundamentos de POO: classes, objetos, atributos e métodos
 
-\* Construtores e sobrecarga
+* Construtores e sobrecarga
 
-\* Membros e métodos estáticos
+* Membros e métodos estáticos
 
-\* Encapsulamento e Properties
+* Encapsulamento e Properties
 
-\* Modificadores de acesso e private set
+* Modificadores de acesso e private set
 
-\* Sobrescrita de ToString()
+* Sobrescrita de ToString()
 
-\* Vetores e manipulação de objetos
+* Vetores e manipulação de objetos
 
-\* Listas genéricas (List<T>)
+* Listas genéricas (List<T>)
 
-\* Busca de elementos com Find() e expressões lambda
+* Busca de elementos com Find() e expressões lambda
 
-\* Percurso e manipulação de coleções
+* Percurso e manipulação de coleções
 
-\* Matrizes bidimensionais
+* Matrizes bidimensionais
 
-\* Verificação de elementos vizinhos e limites da matriz
+* Verificação de elementos vizinhos e limites da matriz
 
-\* Percurso de linhas e colunas
+* Percurso de linhas e colunas
 
-\* Enumerações (Enums)
+* Enumerações (Enums)
 
-\* Composição entre classes
+* Composição entre classes
 
-\* Herança entre classes
+* Herança entre classes
 
-\* Métodos `virtual` e `override`
+* Métodos `virtual` e `override`
 
-\* Sobrescrita de métodos
+* Sobrescrita de métodos
 
-\* Polimorfismo
-
-
-\## 🛠️ Tecnologias
+* Polimorfismo
 
 
-
-\* C#
-
-\* .NET
-
-\* Visual Studio
-
-\* Git
-
-\* GitHub
+## 🛠️ Tecnologias
 
 
 
-\## 🎯 Objetivo
+* C#
+
+* .NET
+
+* Visual Studio
+
+* Git
+
+* GitHub
+
+
+
+## 🎯 Objetivo
 
 
 
@@ -159,7 +159,7 @@ Este repositório funciona como um registro da minha evolução no aprendizado d
 
 
 
-\---
+---
 
 
 
