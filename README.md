@@ -50,6 +50,7 @@ Até o momento:
 
 * ✅ Tratamento de Exceções
 
+* ✅ Trabalhando com Arquivos
 
 ## 📂 Organização
 
@@ -144,6 +145,14 @@ Entre os principais conceitos trabalhados até agora estão:
 * Criação de exceções personalizadas
 
 * Regras de negócio utilizando exceções
+
+* Manipulação, leitura e escrita de arquivos em C#
+
+* Uso de diretórios e caminhos
+
+* Gerenciamento de recursos com using
+
+* Tratamento de erros em operações de entrada e saída (I/O)
 
 
 ## 🛠️ Tecnologias
