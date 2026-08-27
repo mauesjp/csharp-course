@@ -95,11 +95,7 @@ Entre os principais conceitos trabalhados até agora estão:
 
 * Variáveis, tipos e operadores
 
-* Estruturas condicionais e de repetição
-
-* Contadores e acumuladores
-
-* Formatação de números
+* Estruturas condicionais e de repetição, contadores e acumuladores
 
 * Resolução de problemas de lógica
 
@@ -109,53 +105,35 @@ Entre os principais conceitos trabalhados até agora estão:
 
 * Membros e métodos estáticos
 
-* Encapsulamento e Properties
+* Encapsulamento, Properties, modificadores de acesso e private set
 
-* Modificadores de acesso e private set
-
-* Sobrescrita de ToString()
+* Sobrescrita de `ToString()` e outros métodos
 
 * Vetores e manipulação de objetos
 
-* Listas genéricas (List<T>)
-
-* Busca de elementos com Find() e expressões lambda
+* Listas genéricas `(List<T>)`, `Find()` e expressões lambda
 
 * Percurso e manipulação de coleções
 
-* Matrizes bidimensionais
+* Matrizes bidimensionais, percurso de linhas e colunas, elementos vizinhos e limites da matriz
 
-* Verificação de elementos vizinhos e limites da matriz
+* Enumerações (Enums) e Composição entre classes
 
-* Percurso de linhas e colunas
+* Herança, Polimorfismo e métodos `virtual` e `override`
 
-* Enumerações (Enums)
+* Tratamento de exceções com try/catch e lançamento com throw
 
-* Composição entre classes
-
-* Herança entre classes
-
-* Métodos `virtual` e `override`
-
-* Sobrescrita de métodos
-
-* Polimorfismo
-
-* Tratamento de exceções com try/catch
-
-* Lançamento de exceções com throw
-
-* Criação de exceções personalizadas
-
-* Regras de negócio utilizando exceções
+* Criação de exceções personalizadas e regras de negócio utilizando exceções
 
 * Manipulação, leitura e escrita de arquivos em C#
 
-* Uso de diretórios e caminhos
-
-* Gerenciamento de recursos com using
+* Uso de diretórios, caminhos e gerenciamento de recursos com `using`
 
 * Tratamento de erros em operações de entrada e saída (I/O)
+
+* Interfaces e implementação de contratos e serviços
+
+* Injeção de dependência via construtor e desacoplamento entre serviços com interfaces
 
 
 ## 🛠️ Tecnologias
