@@ -54,6 +54,10 @@ Até o momento:
 
 * ✅ Interfaces
 
+* ✅ Generics, Set e Dictionary
+
+* ✅ Expressões Lambda, Delegates e LINQ
+
 
 ## 📂 Organização
 
@@ -76,6 +80,10 @@ csharp-course/
 ├── 06-poo-classes-atributos-metodos/
 
 └──...
+
+├── 14-generics-set-dictionary/
+
+└── 15-lambda-delegates-linq/
 
 ```
 
@@ -134,6 +142,30 @@ Entre os principais conceitos trabalhados até agora estão:
 * Interfaces e implementação de contratos e serviços
 
 * Injeção de dependência via construtor e desacoplamento entre serviços com interfaces
+
+* Tipos genéricos (Generics) e reutilização de código com `Generics<T>`
+
+* Coleções `HashSet<T>` e `SortedSet<T>`
+
+* Operações de conjunto: união, interseção e diferença
+
+* Comparação de objetos com `Equals()` e `GetHashCode()`
+
+* Dicionários com `Dictionary<TKey, TValue>` e armazenamento de pares chave-valor
+
+* Expressões lambda e uso de funções anônimas
+
+* Delegates `Predicate<T>`, `Action<T>` e `Func<T>`
+
+* Métodos de extensão
+
+* Introdução ao LINQ e operações sobre coleções
+
+* Filtragem, projeção e ordenação com `Where()`, `Select()`, `OrderBy()` e `OrderByDescending()`
+
+* Operações de agregação com `Sum()`, `Count()`, `Min()`, `Max()` e `Average()`
+
+* Consultas e processamento de dados utilizando LINQ
 
 
 ## 🛠️ Tecnologias
